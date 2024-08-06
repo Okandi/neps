@@ -3,7 +3,7 @@
 using namespace std;
 
 
-int main() { // O(log(n))
+int main() { // O(raiz(n))
     long long numero;
     cin >> numero;
 
