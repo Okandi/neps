@@ -1,0 +1,3 @@
+backtracking
+mergesort
+usar matriz para <programação dinâmica>
