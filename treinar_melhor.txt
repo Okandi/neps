@@ -1,3 +1,4 @@
 backtracking
 mergesort
 usar matriz para <programação dinâmica> <- PROGRAMAÇÃO DINÂMICA !!!!!! AAAAAAAAA
+MSCrescente
