@@ -1,4 +1,11 @@
 backtracking
 mergesort
-usar matriz para <programação dinâmica> <- PROGRAMAÇÃO DINÂMICA !!!!!! AAAAAAAAA
 MSCrescente
+Problema da Mochila
+
+refazer exercícios:
+- banco inteligente
+- sanduiche
+- ondas
+- ortografia
+- recibo de compra
