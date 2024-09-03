@@ -1,7 +1,13 @@
-backtracking
-mergesort
+MSComum
 MSCrescente
 Problema da Mochila
+
+Grafo:
+dijkstra
+floyd-warshall
+bellman-ford
+algoritmo de prim
+
 
 refazer exercícios:
 - banco inteligente
@@ -9,3 +15,4 @@ refazer exercícios:
 - ondas
 - ortografia
 - recibo de compra
+- frete da família silva
