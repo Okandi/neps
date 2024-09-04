@@ -6,7 +6,7 @@ Grafo:
 dijkstra
 floyd-warshall
 bellman-ford
-algoritmo de prim
+algoritmo de prim (mst no geral)
 
 
 refazer exercícios:
