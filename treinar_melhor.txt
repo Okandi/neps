@@ -3,6 +3,7 @@ MSCrescente
 Problema da Mochila
 
 Euclides extendido (por que isso existe?)
+inverso modular (bizarro)
 
 Grafo:
 dijkstra
