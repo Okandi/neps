@@ -12,6 +12,9 @@ bellman-ford
 algoritmo de prim (mst no geral)
 
 
+tabela esparsa
+
+
 refazer exercícios:
 - banco inteligente
 - sanduiche
@@ -19,3 +22,4 @@ refazer exercícios:
 - ortografia
 - recibo de compra
 - frete da família silva
+- encontra maximo no intervalo
