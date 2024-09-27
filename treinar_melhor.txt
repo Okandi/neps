@@ -1,6 +1,3 @@
-MSCrescente
-Problema da Mochila
-
 Euclides extendido (por que isso existe?)
 inverso modular (bizarro)
 
@@ -15,10 +12,7 @@ tabela esparsa
 
 
 refazer exercícios:
-- banco inteligente
 - sanduiche
-- ondas
-- ortografia
 - recibo de compra
 - frete da família silva
 - encontra maximo no intervalo
