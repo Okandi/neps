@@ -1,3 +1,5 @@
+dp
+
 Euclides extendido (por que isso existe?)
 inverso modular (bizarro)
 
@@ -16,3 +18,4 @@ refazer exercícios:
 - recibo de compra
 - frete da família silva
 - encontra maximo no intervalo
+== Binário (arvore binaria)
